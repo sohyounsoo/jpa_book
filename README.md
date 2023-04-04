@@ -9,6 +9,4 @@ db h2
 
 Java 8 
 
-Spring Boot 2.7.8
-
 maven
